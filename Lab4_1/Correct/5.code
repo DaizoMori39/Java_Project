@@ -1,0 +1,16 @@
+procedure c5 is
+	procedure A ( r, s ) is 
+		r[0] = 0; 
+		s[0] = 0; 
+	end
+begin
+	object x;
+	object y;
+	x = new object(1);
+	y = new object(1);
+	x[0] = 1;
+	y[0] = 1;
+	begin A(x, y);
+	out(x[0]);
+	out(y[0]);
+end

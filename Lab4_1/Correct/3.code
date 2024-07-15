@@ -1,0 +1,15 @@
+procedure c3 is
+	procedure x ( a, b ) is 
+		a[0] = b[0]; 
+	end 
+	object x;
+	object y;
+begin
+	x = new object(1);
+	y = new object(1);
+	x[0] = 1;
+	y[0] = 2;
+	begin x(x, y);
+	out(x[0]);
+	out(y[0]);
+end

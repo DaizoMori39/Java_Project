@@ -1,0 +1,13 @@
+procedure c1 is
+	procedure A ( r ) is 
+		integer a;
+		if r < 9 then 
+			r = in(); 
+			begin A(r); 
+		end
+	end
+	object x;
+begin
+	x = new object(1);
+	x[0] = 10;
+end
