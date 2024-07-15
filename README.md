@@ -12,12 +12,10 @@ Javaのコードファイルのコンパイルが終わった後、
 のように実行してください。  
 
 例えば  
- Correct/ode Correct/2.data  
+ Main Correct/2.code Correct/2.data
 では  
-
-
-
-７が出力されます。  
+ 7  
+が出力されます。  
 
 以下の文法が、x.codeに書かれているコードの文法になり、Javaファイルはそのコードを実行します。  
 
