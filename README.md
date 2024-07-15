@@ -1,7 +1,6 @@
 # Java_Project
-実行方法
+実行方法  
 Lab4_1のファイルを全て同じ場所にダウンロードしてください。  
-
 Lab4_1のファイルの中にCorrectというファイルがあります。  
  x.codeが仮想のプログラムコードになります。  
  x.dataが対応するコードのデータになります。  
@@ -12,7 +11,7 @@ Javaのコードファイルのコンパイルが終わった後、
 のように実行してください。  
 
 例えば  
- Main Correct/2.code Correct/2.data
+ Main Correct/2.code Correct/2.data  
 では  
  7  
 が出力されます。  
